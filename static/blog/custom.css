@@ -1,0 +1,12 @@
+dy {
+    padding-top: 54px;
+}
+
+/* @media è una query che interroga media e gli dice che se
+lo schermo è (min-widh:992px) allora gli cambia il padding-top */
+
+@media (min-width: 320px) {
+    body {
+        padding-top: 56px;
+    }
+}

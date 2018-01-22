@@ -1,0 +1,3 @@
+*.pyc
+#ignora tutti i file .pyc
+db.sqlite3
